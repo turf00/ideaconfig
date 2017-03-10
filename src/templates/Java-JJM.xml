@@ -1,0 +1,7 @@
+<templateSet group="Java-JJM">
+  <template name="psf" value="private static final " description="private static final" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="JAVA_DECLARATION" value="true" />
+    </context>
+  </template>
+</templateSet>

@@ -1,0 +1,14 @@
+ASM Bytecode Outline
+BashSupport
+Batch Scripts Support
+CMD Support
+Docker
+GenerateSerialVersionUID
+JMeter plugin
+com.dmarcotte.handlebars
+org.intellij.plugins.markdown
+org.intellij.scala
+org.jetbrains.kotlin
+org.jetbrains.memory.view
+pl.lksztmczk.openinterminal
+ru.artyushov
